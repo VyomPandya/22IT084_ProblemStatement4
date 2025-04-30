@@ -1,4 +1,4 @@
-# SmartFab Inventory App MAD Practical
+# SmartFab Inventory App MAD Practical Examination
 
 A Flutter-based Material Tracking & Costing App for SmartFab Industries.
 
