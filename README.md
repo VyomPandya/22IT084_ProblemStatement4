@@ -1,4 +1,4 @@
-# SmartFab Inventory App
+# SmartFab Inventory App MAD Practical
 
 A Flutter-based Material Tracking & Costing App for SmartFab Industries.
 
